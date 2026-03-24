@@ -115,26 +115,27 @@ Entropy = length × log₂(character set size)
 
 ### 1. Clone the repository
 
+```python
 git clone https://github.com/evan-reichert/Password-Brute-Force.git
-
+```
 ### 2. Navigate into the project directory
-
+```python
 cd password-generator
-
+```
 ### 3. (Optional but recommended) Create a virtual environment
-
+```python
 python3 -m venv venv
 source venv/bin/activate (Mac/Linux)
 venv\Scripts\activate (Windows)
-
+```
 ### 4. Install Dependencies
-
+```python
 python3 -m pip install tqdm
-
+```
 ### 5. Run the Application
-
+```python
 python3 pass.py
-
+```
 ---
 
 ## Example Output
