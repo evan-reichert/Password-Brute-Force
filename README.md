@@ -129,7 +129,7 @@ venv\Scripts\activate (Windows)
 
 ### 4. Install Dependencies
 
-pip install tqdm
+python3 -m pip install tqdm
 
 ### 5. Run the Application
 
